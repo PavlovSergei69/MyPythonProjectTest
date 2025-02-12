@@ -52,7 +52,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.snake">
+  <component name="RunManager" selected="Python.main">
     <configuration name="Типы данных" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MyPythonProjectTest" />
       <option name="ENV_FILES" value="" />
