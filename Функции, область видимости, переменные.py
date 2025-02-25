@@ -2,17 +2,17 @@
 # def calculate(a,b):
 #     return(a+b)
 # if __name__ == '__main__':
-#     a = calculate(5, 6)
-#     b = calculate(55, 449)
+#     result_1 = calculate(5, 6)
+#     result_2 = calculate(55, 449)
 #
-#     print(a,b, sep="|")
+#     print(result_1,result_2, sep='|')
 
 #2_вариант
-# def calculate(a,b):
-#     return(a+b)
-# a = calculate(5, 6)
-# b = calculate(55, 449)
-# print(a,b, sep='|')
+def calculate(a,b):
+    return(a+b)
+result_1 = calculate(5, 6)
+result_2 = calculate(55, 449)
+print(result_1,result_2, sep='|')
 
 #3_вариант
 # def greet(second_name):

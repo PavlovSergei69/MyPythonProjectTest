@@ -1,27 +1,27 @@
-# 1_вариант
-# def uppercase(func):
-#     def wrapper():
-#         return (func().upper())
-#     return wrapper
-#
-# def braces(func):
-#     def wrapper():
-#         return '{'+func()+'}'
-#     return wrapper
-#
-# def square_braces(func):
-#     def wrapper():
-#         return '['+func()+']'
-#     return wrapper
-#
-#
-# @braces
-# @uppercase
-# @square_braces
-# def great():
-#     return "Hello"
-#
-# print(great())
+#1_вариант
+def uppercase(func):
+    def wrapper():
+        return func().upper()
+    return wrapper
+
+def braces(func):
+    def wrapper():
+        return '{'+func()+'}'
+    return wrapper
+
+def square_braces(func):
+    def wrapper():
+        return '['+func()+']'
+    return wrapper
+
+
+@braces
+@uppercase
+@square_braces
+def great():
+    return "Hello"
+
+print(great())
 
 # #2_вариант
 # def my_decorator(func):
@@ -62,12 +62,12 @@
 # MyClass.say_hello()
 
 #5_вариант
-class MyClass:
-    counter = 0
-
-    @classmethod
-    def increment_counter(cls):
-        cls.counter += 1
-        print(f"Счетчик: {cls.counter}")
-# Вызываем метод класса
-MyClass.increment_counter()
+# class MyClass:
+#     counter = 0
+#
+#     @classmethod
+#     def increment_counter(cls):
+#         cls.counter += 1
+#         print(f"Счетчик: {cls.counter}")
+# # Вызываем метод класса
+# MyClass.increment_counter()
