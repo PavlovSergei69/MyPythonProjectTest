@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c2b8b344-348d-4eba-82b0-f8ae00615676" name="Changes" comment="Изменение от 25.02.2025">
-      <change afterPath="$PROJECT_DIR$/ООП.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Создание класса.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c2b8b344-348d-4eba-82b0-f8ae00615676" name="Changes" comment="Изменение от 25.02.2025" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,6 +62,7 @@
     "Python.typle (кортеж).executor": "Run",
     "Python.Декораторы.executor": "Run",
     "Python.Исключения.executor": "Run",
+    "Python.ООП.executor": "Run",
     "Python.Приведение типов.executor": "Run",
     "Python.Создание класса.executor": "Run",
     "Python.Типы данных.executor": "Run",
@@ -341,7 +338,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740488409523</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Изменение от 25.02.2025">
+      <option name="closed" value="true" />
+      <created>1740492355536</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1740492355536</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
