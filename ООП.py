@@ -21,3 +21,5 @@ niva_legend = niva()
 niva_legend.drive()
 niva_legend.stop()
 niva_legend.lights()
+
+#проверка введения веток
