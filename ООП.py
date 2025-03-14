@@ -1,9 +1,10 @@
+#Абстракция
 from abc import ABC
 class car(ABC):
     def __init__(self):
         self.hp = 250
     def drive(self):
-        pass                            #!!!пустота!!! необходима для заполнения, коогда нет больше данных
+        pass                            #!!!пустота!!! необходима для заполнения, когда нет больше данных, но функцию или класс нужно закрыть.
     def stop(self):
         pass
     def lights(self):
