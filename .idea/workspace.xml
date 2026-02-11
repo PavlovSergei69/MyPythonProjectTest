@@ -4,11 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c2b8b344-348d-4eba-82b0-f8ae00615676" name="Changes" comment="Проверка работы в ветке &quot;Test&quot; от 06.03.2023">
+    <list default="true" id="c2b8b344-348d-4eba-82b0-f8ae00615676" name="Changes" comment="Корректировка данных от 14.03.2025">
+      <change afterPath="$PROJECT_DIR$/1. Типы данных (integer, float, boolean, string, list, dictionary).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7. Функции, область видимости, переменные (def, return).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Тесты от Автотесто.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/MyPythonProjectTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/MyPythonProjectTest.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ООП.py" beforeDir="false" afterPath="$PROJECT_DIR$/ООП.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Создание класса.py" beforeDir="false" afterPath="$PROJECT_DIR$/Создание класса.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Args and Kwargs.py" beforeDir="false" afterPath="$PROJECT_DIR$/10. Продвинутые функции (args, kwargs).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/For and While.py" beforeDir="false" afterPath="$PROJECT_DIR$/4. Циклы (for and while).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/If and Elif and Else.py" beforeDir="false" afterPath="$PROJECT_DIR$/3. Условные конструкции (If, elif, else).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lambda.py" beforeDir="false" afterPath="$PROJECT_DIR$/9. Лямбда выражения (lamda).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Set and Frozenset.py" beforeDir="false" afterPath="$PROJECT_DIR$/Set and Frozenset.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tuple (кортеж).py" beforeDir="false" afterPath="$PROJECT_DIR$/2. Tuple (кортеж).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Декораторы.py" beforeDir="false" afterPath="$PROJECT_DIR$/8. Декораторы (wrapper).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Исключения.py" beforeDir="false" afterPath="$PROJECT_DIR$/6. Исключения (except).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ООП.py" beforeDir="false" afterPath="$PROJECT_DIR$/12. Принципы ООП.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Приведение типов.py" beforeDir="false" afterPath="$PROJECT_DIR$/5. Приведение типов.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Создание класса.py" beforeDir="false" afterPath="$PROJECT_DIR$/11. Создание класса (init, self).py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Типы данных.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Функции, область видимости, переменные.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,48 +63,72 @@
     &quot;accountId&quot;: &quot;af623d25-e53c-4bc7-b487-231e4142e6dc&quot;
   }
 }</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$USER_HOME$/AppData/Local/JetBrains/PyCharmCE2025.1/python_stubs/-2089644688/builtins.py" root0="SKIP_INSPECTION" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
   <component name="ProjectId" id="2sX36RReaSVTFAikWhui4XoDPUf" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+  <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Args and Kwargs.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Example_1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.If and elif and else.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Lambda.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Set and Frozenset.executor&quot;: &quot;Run&quot;,
-    &quot;Python.example.executor&quot;: &quot;Run&quot;,
-    &quot;Python.for and while.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.snake.executor&quot;: &quot;Run&quot;,
-    &quot;Python.typle (кортеж).executor&quot;: &quot;Run&quot;,
-    &quot;Python.Декораторы.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Исключения.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ООП.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Приведение типов.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Создание класса.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Типы данных.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Функции, область видимости, переменные.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;deletionFromPopupRequiresConfirmation&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;Test&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.10. Продвинутые функции (args, kwargs).executor": "Run",
+    "Python.11. Создание класса (init, self).executor": "Run",
+    "Python.11. Создание класса.executor": "Run",
+    "Python.12. Принципы ООП.executor": "Run",
+    "Python.2. Tuple (кортеж).executor": "Run",
+    "Python.3. Условные конструкции (If, elif, else).executor": "Run",
+    "Python.4. Циклы (for and while).executor": "Run",
+    "Python.5. Приведение типов.executor": "Run",
+    "Python.6. Исключения (except).executor": "Run",
+    "Python.6. Исключения.executor": "Run",
+    "Python.7. Функции, область видимости, переменные (def) (1).executor": "Run",
+    "Python.7. Функции, область видимости, переменные.executor": "Run",
+    "Python.8. Декораторы (wrapper) (1).executor": "Run",
+    "Python.8. Декораторы (wrapper).executor": "Run",
+    "Python.8. Декораторы.executor": "Run",
+    "Python.9. Лямбда выражения (lamda).executor": "Run",
+    "Python.9. Лямбда выражения.executor": "Run",
+    "Python.Args and Kwargs.executor": "Run",
+    "Python.Example_1.executor": "Run",
+    "Python.If and elif and else.executor": "Run",
+    "Python.Lambda.executor": "Run",
+    "Python.Set and Frozenset.executor": "Run",
+    "Python.Tuple (кортеж).executor": "Run",
+    "Python.example.executor": "Run",
+    "Python.for and while.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.snake.executor": "Run",
+    "Python.typle (кортеж).executor": "Run",
+    "Python.Декораторы.executor": "Run",
+    "Python.Исключения.executor": "Run",
+    "Python.ООП.executor": "Run",
+    "Python.Приведение типов.executor": "Run",
+    "Python.Создание класса.executor": "Run",
+    "Python.Тесты от Автотесто.executor": "Run",
+    "Python.Типы данных(integer, float, boolean, string, list, dictionary).executor": "Run",
+    "Python.Типы данных.executor": "Run",
+    "Python.Функции, область видимости, переменные.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "deletionFromPopupRequiresConfirmation": "false",
+    "git-widget-placeholder": "Test",
+    "last_opened_file_path": "C:/Users/pavlov-s/Documents/Обучение/RVT/MyPythonProjectTest",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;ChangesTree.GroupingKeys&quot;: []
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": []
   }
-}</component>
-  <component name="RunManager" selected="Python.ООП">
-    <configuration name="Создание класса" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+}]]></component>
+  <component name="RunManager" selected="Python.12. Принципы ООП">
+    <configuration name="10. Продвинутые функции (args, kwargs)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MyPythonProjectTest" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -101,7 +141,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Создание класса.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10. Продвинутые функции (args, kwargs).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -110,7 +150,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Декораторы" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="11. Создание класса (init, self)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MyPythonProjectTest" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -123,7 +163,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Декораторы.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\pavlov-s\Documents\Обучение\RVT\MyPythonProjectTest\11. Создание класса (init, self).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -132,7 +172,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ООП" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="12. Принципы ООП" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MyPythonProjectTest" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -145,7 +185,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ООП.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/12. Принципы ООП.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -154,7 +194,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lambda" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="2. Tuple (кортеж)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MyPythonProjectTest" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -167,7 +207,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lambda.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2. Tuple (кортеж).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -176,7 +216,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Функции, область видимости, переменные" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="9. Лямбда выражения (lamda)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="MyPythonProjectTest" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -189,73 +229,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Функции, область видимости, переменные.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="ООП" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="MyPythonProjectTest" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ООП.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Декораторы" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="MyPythonProjectTest" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Декораторы.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Декораторы" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="MyPythonProjectTest" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Декораторы.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\pavlov-s\Documents\Обучение\RVT\MyPythonProjectTest\9. Лямбда выражения (lamda).py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -266,18 +240,18 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.ООП" />
-        <item itemvalue="Python.Создание класса" />
-        <item itemvalue="Python.Lambda" />
-        <item itemvalue="Python.Декораторы" />
-        <item itemvalue="Python.Функции, область видимости, переменные" />
+        <item itemvalue="Python.12. Принципы ООП" />
+        <item itemvalue="Python.11. Создание класса (init, self)" />
+        <item itemvalue="Python.10. Продвинутые функции (args, kwargs)" />
+        <item itemvalue="Python.2. Tuple (кортеж)" />
+        <item itemvalue="Python.9. Лямбда выражения (lamda)" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-python-sdk-fc1d50d2d915-aa17d162503b-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-243.24978.54" />
+        <option value="bundled-python-sdk-348a24fa61fa-5312c7369657-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-251.23774.444" />
       </set>
     </attachedChunks>
   </component>
@@ -394,7 +368,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741263501963</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Корректировка данных от 14.03.2025">
+      <option name="closed" value="true" />
+      <created>1741960351531</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1741960351531</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -416,27 +398,18 @@
     <MESSAGE value="Изменение от 21.02.2025" />
     <MESSAGE value="Изменение от 25.02.2025" />
     <MESSAGE value="Проверка работы в ветке &quot;Test&quot; от 06.03.2023" />
-    <option name="LAST_COMMIT_MESSAGE" value="Проверка работы в ветке &quot;Test&quot; от 06.03.2023" />
+    <MESSAGE value="Корректировка данных от 14.03.2025" />
+    <option name="LAST_COMMIT_MESSAGE" value="Корректировка данных от 14.03.2025" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/main.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Example.py</url>
-          <line>8</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/Args and Kwargs.py</url>
-          <line>10</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
     </breakpoint-manager>
   </component>
 </project>

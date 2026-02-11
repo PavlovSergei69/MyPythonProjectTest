@@ -1,27 +1,27 @@
-#1_вариант
-def uppercase(func):
-    def wrapper():
-        return func().upper()
-    return wrapper
-
-def braces(func):
-    def wrapper():
-        return '{'+func()+'}'
-    return wrapper
-
-def square_braces(func):
-    def wrapper():
-        return '['+func()+']'
-    return wrapper
-
-
-@braces
-@uppercase
-@square_braces
-def great():
-    return "Hello"
-
-print(great())
+# #1_вариант
+# def uppercase(func):
+#     def wrapper():
+#         return func().upper()
+#     return wrapper
+#
+# def braces(func):
+#     def wrapper():
+#         return '{'+func()+'}'
+#     return wrapper
+#
+# def square_braces(func):
+#     def wrapper():
+#         return '['+func()+']'
+#     return wrapper
+#
+#
+# @braces
+# @uppercase
+# @square_braces
+# def great():
+#     return "Hello"
+#
+# print(great())
 
 # #2_вариант
 # def my_decorator(func):
@@ -32,13 +32,13 @@ print(great())
 #     return wrapper
 #
 # @my_decorator             # Применяем декоратор к функции
-
+#
 # def say_hello():
 #     print("Привет!")
 # # Вызываем функцию
-# say_hello()
+#say_hello()
 
-#3_вариант
+# #3_вариант
 # def my_decorator(func):
 #     def wrapper(*a, **b): # Принимаем любые аргументы
 #         print("До вызова функции")
@@ -62,12 +62,22 @@ print(great())
 # MyClass.say_hello()
 
 #5_вариант
-# class MyClass:
-#     counter = 0
-#
-#     @classmethod
-#     def increment_counter(cls):
-#         cls.counter += 1
-#         print(f"Счетчик: {cls.counter}")
-# # Вызываем метод класса
-# MyClass.increment_counter()
+class MyClass:
+    counter = 0
+
+    @classmethod
+    def increment_counter(cls):
+        cls.counter += 1
+        print(f"Счетчик: {cls.counter}")
+# Вызываем метод класса
+MyClass.increment_counter()
+
+
+# def check_age(age):
+#     if age < 0:
+#         return "Возраст не может быть отрицательным"
+#     if age < 18:
+#         return "Несовершеннолетний"
+#     return "Совершеннолетний"
+# # result = check_age(15)
+# print(f'Проверка данных. Ответ {check_age(15)}')
